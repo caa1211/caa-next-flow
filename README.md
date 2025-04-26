@@ -2,6 +2,23 @@
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## 流程圖展示
+
+這個項目包含一個使用 React Flow 實現的複雜流程圖，展示了數據處理的完整流程。
+
+### 流程圖截圖
+
+![流程圖截圖](flowchart-screenshot.png)
+
+*注意：請將流程圖截圖 (1024x768) 放在項目根目錄下，並命名為 `flowchart-screenshot.png`*
+
+### 流程圖特點
+
+- 從左到右的方向性流程
+- 主流程和子流程的清晰區分
+- 箭頭指示數據流向
+- 動畫效果增強可視化體驗
+
 ## Getting Started
 
 First, run the development server:
